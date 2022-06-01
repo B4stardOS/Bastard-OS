@@ -89,25 +89,7 @@ Bios: `SD:\Emu\(game system)`
 
 `SD:\Emu\PS\.pcsx`
 
-# Known Issues
 
-When you are in the ingame menu and press save state it shows this toast
-
-&#x200B;
-
-https://preview.redd.it/44efi4hj1p191.png?width=254&format=png&auto=webp&s=697863bb7162507b2b69004f23bc915a9c7af659
-
-**If you press exit game WITH THAT OPEN it will crash.**
-
-AUTO SAVE WILL BREAK for that one file but SAVE STATE WILL STILL BE LOADABLE.
-
-`To fix hold the power button to force the system off`
-
-This is due to autosave conflictions still being figured out.
-
-CLOSE menu, open menu again THEN exit game to for **\*\*BOTH\*\* savestate AND autosave.**
-
-&#x200B;
 
 # UPDATE LOG
 
