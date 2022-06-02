@@ -80,7 +80,6 @@ Bios: `SD:\Emu\(game system)`
 
 # Thanks:
 
-The Onion OS team
 * The Onion OS team: `Sichroteph, jimgraygit, PixelShift-gb, asiansteev, Codeudan and squallstar`
 
 * `eggs` the maker of the custom keymon and miyoo wizard
