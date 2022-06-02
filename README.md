@@ -31,18 +31,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Includes File Explorer & Retroarch
 
-# Thanks:
-
-If we can turn this into a community project making it OUR bastard OS by tweaking it and making it better and better then I would be happy with that. Thanks to all the dev community including the Retro Game Handhelds discord for being amazing
-
-* `eggs`
-* `shauninman`
-* `jimgray`
-* `Saí`
-* `Pixelshift`
-* `Jeltron`
-
-Installation:
+# Installation:
 
 ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CARD AS ITS MAINLY FOR PERSONAL USE.
 
@@ -90,12 +79,13 @@ Bios: `SD:\Emu\(game system)`
 
 `SD:\Emu\PS\.pcsx`
 
+# Thanks:
 
+If we can turn this into a community project making it OUR bastard OS by tweaking it and making it better and better then I would be happy with that. Thanks to all the dev community including the Retro Game Handhelds discord for being amazing
 
-# UPDATE LOG
-
-v1.5
-
-* ^(Changed save and state locations to make known issue crash be less problematic)
-* ^(changed ra32.ss structure to all use the same (Thanks) `Eggs`)
-* ^(System files have been further cleaned up to take up less space)
+* `eggs`
+* `shauninman`
+* `jimgray`
+* `Saí`
+* `Pixelshift`
+* `Jeltron`
