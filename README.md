@@ -1,42 +1,43 @@
 # Bastard-OS
 A Custom Version of Onion OS for the Miyoo Mini
 
-*This will be used as a main hub for updates and links for* ***BASTARD OS***
+**NEW UPDATE AT** `06/01/2022`, IF YOU ARE USING A PREVIOUS VERSION BACKUP EVERYTHING AND COMPLETELY WIPE. A NEW FRAMEWORK IS INPLACE AS WELL AS `NEW SAVE AND STATE LOCATIONS`! DONT FORGET TO READ BELOW FOR ALL NEW INFORMATION!
 
-UPDATE 05/29. I HAVE FIXED THE CRASH SO NOW BASTARD OS IS IN FULL WORKING ORDER AND REQUIRES LESS STEPS TO INSTALL V2.0 WILL BE OUT IN A WEEK OR SO. LINK HAS BEEN PULLED TILL NEW ZIP IS MADE. STAY TUNED. 
+**Do you have a spare SD card?** 
 
+**Do you like the stock Miyoo Mini firmware but don't like how it runs?** 
 
-# BASTARD OS VERSION 1.5
+**Do you love Onion and Mini UI for their own unique reasons?** 
 
-**NEW UPDATE AT** `05/25/2022`, IF YOU ARE USING A PREVIOUS VERSION BACKUP EVERYTHING AND COMPLETELY WIPE. A NEW FRAMEWORK IS INPLACE AS WELL AS `NEW SAVE AND STATE LOCATIONS`! DONT FORGET TO READ BELOW FOR ALL NEW INFORMATION!
+Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like from both and smashin em together.
 
-Do you have a spare SD card? Do you like the stock Miyoo Mini firmware but don't like how it runs? Do you love Onion and Mini UI for their own unique reasons? Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like from both and smashin em together.
+# Features:
 
-\-Onion OS base with Stock baked in includes faster boot times and battery percentage.
+* Onion OS base with Stock baked in includes faster boot times and battery percentage.
 
-\-Keeps original menu button action and save/load menu but themed
+* Keeps original menu button action and save/load menu but themed
 
-\-Onion launcher Quick save power button feature backed in. Press power button in game (except PSX) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!*
+* Onion launcher Quick save power button feature backed in. Press power button in game (except PSX) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!*
 
-\-Faster then stock with cores picked by my personal experience
+* Faster then stock with cores picked by my personal experience
 
-\-Custom Keymon fully working by `Eggs` <3 RTC and Screenshot built in! (check shortcuts)
+* Custom Keymon fully working by `Eggs` <3 RTC and Screenshot built in! (check shortcuts)
 
-\-onionOs v3.10.5 SDL audio fix + latency reduction baked in so NO AUDIO POP *between* games (MAKE SURE AUDIO FIX IS SET ON IN THE SETTINGS)
+* Onion OS v3.10.6 SDL audio fix + latency reduction baked in so less audio pops *between* games (MAKE SURE AUDIO FIX IS SET ON IN THE SETTINGS)
 
-\-includes `Eggs` full miyoo mini optimized retroarch to run systems not included
+* includes `Eggs` full miyoo mini optimized retroarch to run systems not included
 
-\-**No** background music on the homescreen
+* **No** background music on the homescreen
 
-\-Includes File Explorer & Retroarch
+* Includes File Explorer & Retroarch
 
-\-*Added a template for how to sort games by creating new EMU folders. Check out the included SMWHACKS as an example and its included readme*
+# Thanks:
 
 If we can turn this into a community project making it OUR bastard OS by tweaking it and making it better and better then I would be happy with that. Thanks to all the dev community including the Retro Game Handhelds discord for being amazing
 
-* `eggs,`
-* `shauninman,`
-* `jimgray and`
+* `eggs`
+* `shauninman`
+* `jimgray`
 * `Saí`
 * `Pixelshift`
 * `Jeltron`
