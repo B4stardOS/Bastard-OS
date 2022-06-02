@@ -82,9 +82,10 @@ Bios: `SD:\Emu\(game system)`
 
 If we can turn this into a community project making it OUR bastard OS by tweaking it and making it better and better then I would be happy with that. Thanks to all the dev community including the Retro Game Handhelds discord for being amazing
 
-* `eggs`
-* `shauninman`
-* `jimgray`
+The Onion OS team
+* The Onion OS team: `Sichroteph, jimgraygit, PixelShift-gb, asiansteev, Codeudan and squallstar`
+
+* `eggs` the maker of the custom keymon and miyoo wizard
+* `shauninman` maker of Mini UI and custom cores
 * `Saí`
-* `Pixelshift`
 * `Jeltron`
