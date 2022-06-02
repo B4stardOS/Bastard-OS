@@ -36,10 +36,9 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CARD AS ITS MAINLY FOR PERSONAL USE.
 
 1. `Delete all partitions of your SD card and format to Fat32`
-2. `Copy the contents of "Bastard OS SD Files" to your fresh SD 3. Instert SD to Miyoo Mini and turn on`
-3. `Go into the App Menu and run "Bastard OS Installer + Themes"`
-4. `Select "Bastard OS Fix" and press "Install"`
-5. `Back in the App menu run "Bastard OS Refresh"`
+2. `Copy the contents of "Bastard OS SD Files" to your fresh SD 
+3. `Instert SD to Miyoo Mini and turn on`
+3. `Go into the App Menu and run the "Glitch Fix" to fix boot glitch.
 
 **Done!** Copy over roms and saves as needed and enjoy!
 
