@@ -1,7 +1,5 @@
-# Bastard-OS
-A Custom Version of Onion OS for the Miyoo Mini
-
-**NEW UPDATE AT** `06/01/2022`, IF YOU ARE USING A PREVIOUS VERSION BACKUP EVERYTHING AND COMPLETELY WIPE. A NEW FRAMEWORK IS INPLACE AS WELL AS `NEW SAVE AND STATE LOCATIONS`! DONT FORGET TO READ BELOW FOR ALL NEW INFORMATION!
+# Bastard OS
+`A Custom Version of Onion OS for the Miyoo Mini`
 
 **Do you have a spare SD card?** 
 
@@ -13,23 +11,23 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 # Features:
 
-* Onion OS base with Stock baked in includes faster boot times and battery percentage.
+* The EMUs of stock but baked into Onion OS for faster boot times, better performance and battery percentage.
 
-* Keeps original menu button action and save/load menu but themed
+* Keeps original in-game menu button action including the save/load menu.
 
-* Onion launcher Quick save power button feature backed in. Press power button in game (except PSX) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!*
+* Quick save via power button enabled. Press power button in game (except PS1*) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!* *For PS1 quicksave functions use the Retroarch shortcut for PS1 and use the button combo `MENU + POWER` to quicksave and powerdown!
 
 * Faster then stock with cores picked by my personal experience
 
 * Custom Keymon fully working by `Eggs` <3 RTC and Screenshot built in! (check shortcuts)
 
-* Onion OS v3.10.6 SDL audio fix + latency reduction baked in so less audio pops *between* games (MAKE SURE AUDIO FIX IS SET ON IN THE SETTINGS)
+* Onion OS v3.11.1 SDL audio fix + latency reduction baked in so less audio pops *between* games.
 
-* includes `Eggs` full miyoo mini optimized retroarch to run systems not included
+* includes `Eggs` full miyoo mini optimized retroarch to run systems not included.
 
 * **No** background music on the homescreen
 
-* Includes File Explorer & Retroarch
+* Includes File Explorer 
 
 # Installation:
 
@@ -38,9 +36,11 @@ ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CA
 1. `Delete all partitions of your SD card and format to Fat32`
 2. `Copy the contents of "Bastard OS SD Files" to your fresh SD` 
 3. `Instert SD to Miyoo Mini and turn on`
-3. `Go into the App Menu and run the "Glitch Fix" to fix boot glitch.`
+4. `Go through the installer. All EMUs will install AUTOMATICALLY`
+5. `If you want to install any Retroarch shortcuts then select them in the installer`
+3. `The mini will shutdown and you are all done!`
 
-**Done!** Copy over roms and saves as needed and enjoy!
+**Copy over roms and saves as needed and enjoy!**
 
 # Shortcuts:
 
