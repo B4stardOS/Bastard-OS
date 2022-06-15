@@ -29,11 +29,36 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Includes File Explorer 
 
+# Pictures
+<details><summary>Click to show/hide photos</summary><br>
+
+<p><em><strong>Bootscreen</strong></em></p>
+  
+![1](https://user-images.githubusercontent.com/106662128/173907274-950766f1-cd66-4730-a4bf-cc0633828f8c.png )
+  
+<p><em><strong>Main Screen</strong></em></p>
+  
+![2](https://user-images.githubusercontent.com/106662128/173908176-2651e99b-971c-49d0-b53a-a890eb42c7db.png )
+  
+<p><em><strong>Console Screen</strong></em></p>
+  
+![3](https://user-images.githubusercontent.com/106662128/173909450-84646c03-983a-49bd-ab8a-184b1614d3c3.png )
+
+<p><em><strong>App Screen</strong></em></p>
+  
+![4](https://user-images.githubusercontent.com/106662128/173909584-3ba359be-89e7-4007-80c1-cde10f01dece.png )
+
+<p><em><strong>Game Selection Screen</strong></em></p>
+  
+![MainUI_014](https://user-images.githubusercontent.com/106662128/173910149-510adff3-c2da-44cc-bb69-a7786cc25f77.png)
+
+</details>
+
 # Installation:
 
 You need the 0419 firmware update, upgrade info below
 
-<details open=""><summary>Show upgrade guide from the Trifoce Miyoo Mini Wiki</summary><br>
+<details><summary>Show upgrade guide from the Trifoce Miyoo Mini Wiki</summary><br>
 <a href="https://github.com/TriForceX/MiyooCFW/wiki/Miyoo-Mini#firmware-update-guide" rel="nofollow">Source with picture guide</a>
   
   
@@ -109,14 +134,20 @@ Bios: `SD:\Emu\(game system)`
 
 `SD:\Emu\PS\.pcsx`
 
-# Thanks:
+# Credits & Thanks:
 
+Onion Os team for making a framework for me to play around in, you are all the best!
 * The Onion OS team: `Sichroteph, jimgraygit, PixelShift-gb, asiansteev, Codeudan and squallstar`
 
-* `eggs` the maker of the custom keymon and miyoo wizard
-* `shauninman` maker of Mini UI and custom cores
-* `Saí`
-* `Jeltron`
+* `eggs` the maker of the custom keymon and miyoo wizard. You have personally helped me overcome many issues!
+
+* `shauninman` maker of Mini UI and custom cores. I have learned alot from your talk in the discord!
+
+* `Saí` Helping with themeing ideas, making the new logo and giving ideas!
+ 
+* `Jeltron` Icons for Home screen
+
+* `Andrean Prabowo` Flat set icons for apps
 
 
 If we can turn this into a community project making it OUR bastard OS by tweaking it and making it better and better then I would be happy with that. Thanks to all the dev community including the Retro Game Handhelds discord for being amazing
