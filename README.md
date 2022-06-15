@@ -1,4 +1,4 @@
-
+# Bastard OS
 `A Custom Version of Onion OS for the Miyoo Mini`
 
 **Do you have a spare SD card?** 
@@ -30,6 +30,37 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 * Includes File Explorer 
 
 # Installation:
+
+You need the 0419 firmware update, upgrade info below
+
+<details open=""><summary>Show upgrade guide from the Trifoce Miyoo Mini Wiki</summary><br>
+<a href="https://github.com/TriForceX/MiyooCFW/wiki/Miyoo-Mini#firmware-update-guide" rel="nofollow">Source with picture guide</a>
+  
+  
+<p>Download latest update direct from Miyoo from official <a href="https://lemiyoo.cn/upgrade" rel="nofollow">website</a> or from our <a href="https://drive.google.com/drive/folders/192KkgJ6rTy5gpYRyPIK4D0_apm8bwVlm?usp=sharing" rel="nofollow">backups</a></p>
+<p><em><strong>NOTE PLEASE READ FIRST</strong></em></p>
+<ol>
+<li>use a trustworthy SD card(sandisk, toshiba, etc.)</li>
+<li>Make sure miyoo283_fw.img was downloaded correctly (file size: 15,134,744 CRC32:814ED165)&amp; MD5 (miyoo283_fw.img) = 32ce41b44cf9d35f4ee9ceae0ba7827d</li>
+</ol>
+<p>Additional Tips: Please use a power plug that is not more than 5V, do not upgrade through the computers usb charging,
+copy the firmware files to TF card immediately after upgrading the machine do not flash after playing games, otherwise its easy to lose data AND END UP WITH A brick!:)</p>
+<p><em><strong>Note: VERY IMPORTANT Remove the battery first then proceed with the upgrade!</strong></em>
+Step 1 Download Miyoo283_fw. Img firmware &amp; the A wild card zip.
+Step 2 Copying TF cards connect to a computer through a card reader then copy the downloaded Miyoo283_Fw. img firmware directly to the root directory of the TF card.
+Step 3 Upgrading Do not power off during upgrade! You can't press the power button! It turns into bricks!</p>
+<ol>
+<li>Power off remove the battery</li>
+<li>Install the TF card back</li>
+<li>Power on through Type C plug the data cable and enter charging state</li>
+<li>Do not press the power button. It will enter the firmware upgrade state automatically.</li>
+<li>The upgrade takes about 2 minutes after the update it will enter a charging state only then remove the cable very important as its still writing to internal NAND.</li>
+</ol>
+<p>Step 4 Please delete the Miyoo283_fw. Img firmware copied from the TF card after the upgrade!
+Step 5 Copy (first backup your card,you will loose your saved data)Copy APP, Emu, RApp, RetroArch from the wild card folder that you downloaded to the TF card and directly overwrite any files is ask to.```</p>
+<p>Additional Tips: Please use a power plug that is not more than 5V, do not upgrade through the computers usb charging,
+copy the firmware files to TF card immediately after upgrading the machine do not start playing games, otherwise its easy to lose data AND END UP WITH A brick! :)</p>
+</details>
 
 ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CARD AS ITS MAINLY FOR PERSONAL USE.
 
