@@ -11,23 +11,27 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 # Features:
 
-* The EMUs of stock but baked into Onion OS for faster boot times, better performance and battery percentage.
+* Using the Miyoo made `ra32.ss` but baked into Onion OS for faster boot times, better performance and battery life.
 
-* Keeps original in-game menu button action including the save/load menu.
+* Keeps original in-game menu button action with QUICK MENU but fully themed.
 
-* Quick save via power button enabled. Press power button in game (except PS1*) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!* *For PS1 quicksave functions use the Retroarch shortcut for PS1 and use the button combo `MENU + POWER` to quicksave and powerdown!
+* Onion Installer used to install RetroArch shortcuts for easy, onion style access to games. Use The Bastard Installer to add or remove shortcuts.
 
-* Faster then stock with cores picked by my personal experience
+* Quick save via power button enabled. Press power button in game (except PS*) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!* *For PS quicksave functions use the RetroArch shortcut for PS and use the button combo `MENU + POWER` to quicksave and powerdown!
+
+* Faster then stock with cores picked by my personal experience.
 
 * Custom Keymon fully working by `Eggs` <3 RTC and Screenshot built in! (check shortcuts)
 
-* Onion OS v3.11.1 SDL audio fix + latency reduction baked in so less audio pops *between* games.
+* Onion OS v3.11.2 base, built on SDL audio.
 
-* includes `Eggs` full miyoo mini optimized retroarch to run systems not included.
+* includes `Eggs` full miyoo mini optimized RetroArch to run systems not included. Found in Apps.
 
-* **No** background music on the homescreen
+* **No** background music on the homescreen.
 
-* Includes File Explorer 
+* Play activity by Onion to teack gameplay.
+
+* Includes File Explorer, Thank you app and Shutdown shortcut in Apps.
 
 # Pictures
 
