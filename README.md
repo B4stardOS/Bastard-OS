@@ -30,7 +30,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 * Includes File Explorer 
 
 # Pictures
-<details><summary>Click to show/hide photos</summary><br>
+<details><summary>Bootscreen, Main screens and apps ~ Click to show/hide photos</summary><br>
 
 <p><em><strong>Bootscreen</strong></em></p>
   
@@ -51,6 +51,38 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 <p><em><strong>Game Selection Screen</strong></em></p>
   
 ![MainUI_014](https://user-images.githubusercontent.com/106662128/173910149-510adff3-c2da-44cc-bb69-a7786cc25f77.png)
+  
+<p><em><strong>Settings Screen</strong></em></p>
+  
+![5](https://user-images.githubusercontent.com/106662128/173912185-e4667e03-35f5-401a-a336-81c3caafed81.png)
+  
+<p><em><strong>Play Activity</strong></em></p>
+  
+![MainUI_013](https://user-images.githubusercontent.com/106662128/173913876-10b81d35-2fcc-44b0-86ff-e0cb295113b2.png)
+
+</details>
+
+<details><summary>Quick Menu, RetroArch Shortcuts and Keymon Shortcuts ~ Click to show/hide photos</summary><br>
+  
+<p><em><strong>Themed Quick Menu></em></p>
+  
+![Mega Man Battle Chip Challenge (U)(Wii U)_000](https://user-images.githubusercontent.com/106662128/173912825-57b6d6ec-5855-40d1-846f-d266c0e57e53.png)
+  
+<p><em><strong>RetroArch Shortcuts Menu></em></p>
+  
+![MainUI_012](https://user-images.githubusercontent.com/106662128/173913162-f992fef6-d122-4454-91f3-aab6cebb3d75.png)
+ 
+<p><em><strong>RetroArch Shortcuts Installer></em></p>
+  
+![The Bastard Installer_000](https://user-images.githubusercontent.com/106662128/173914189-3c331618-87e9-44ba-8065-2223b66d0280.png)
+  
+<p><em><strong>Eggs Keymon Display Settings></em></p>
+  
+![MainUI_006](https://user-images.githubusercontent.com/106662128/173914588-43caa212-f824-49b2-b557-116e5596f149.png)
+
+<p><em><strong>Eggs Keymon RTC Settings></em></p>
+  
+![MainUI_008](https://user-images.githubusercontent.com/106662128/173914789-3bf10a1d-28f0-44fd-94f1-70e10a18e89e.png)
 
 </details>
 
@@ -126,7 +158,7 @@ Game save location: `SD:\Emu\(game system)\config\saves\(game system)\(core)`
 
 Game states location: `SD:\Roms\(game system)\(core)`
 
-Game auto state location: 'SD:\Emu\(game system)\config\states\(game system)\(core)'
+Game auto state location: `SD:\Emu\(game system)\config\states\(game system)\(core)`
 
 Bios: `SD:\Emu\(game system)`
 
