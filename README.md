@@ -31,7 +31,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 # Pictures
 
-<details><summary>Bootscreen</summary><br>
+  <details><summary>Bootscreen</summary><br>
   
 ![1](https://user-images.githubusercontent.com/106662128/173907274-950766f1-cd66-4730-a4bf-cc0633828f8c.png )
   
@@ -57,43 +57,52 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 <details><summary>Game Selection Screen</summary><br>
   
-![MainUI_014](https://user-images.githubusercontent.com/106662128/173910149-510adff3-c2da-44cc-bb69-a7786cc25f77.png)
+![MainUI_014](https://user-images.githubusercontent.com/106662128/173910149-510adff3-c2da-44cc-bb69-a7786cc25f77.png )
 
 </details>
   
 <details><summary>Settings Screen</summary><br>
   
-![5](https://user-images.githubusercontent.com/106662128/173912185-e4667e03-35f5-401a-a336-81c3caafed81.png)
+![5](https://user-images.githubusercontent.com/106662128/173912185-e4667e03-35f5-401a-a336-81c3caafed81.png )
 
 </details>
   
 <details><summary>Play Activity</summary><br>
   
-![MainUI_013](https://user-images.githubusercontent.com/106662128/173913876-10b81d35-2fcc-44b0-86ff-e0cb295113b2.png)
+![MainUI_013](https://user-images.githubusercontent.com/106662128/173913876-10b81d35-2fcc-44b0-86ff-e0cb295113b2.png )
 
 </details>
   
 <details><summary>Themed Quick Menu</summary><br>
   
-![Mega Man Battle Chip Challenge (U)(Wii U)_000](https://user-images.githubusercontent.com/106662128/173912825-57b6d6ec-5855-40d1-846f-d266c0e57e53.png)
+![Mega Man Battle](https://user-images.githubusercontent.com/106662128/173912825-57b6d6ec-5855-40d1-846f-d266c0e57e53.png )
+  
+</details>
   
 <details><summary>RetroArch Shortcuts Menu</summary><br>
   
-![MainUI_012](https://user-images.githubusercontent.com/106662128/173913162-f992fef6-d122-4454-91f3-aab6cebb3d75.png)
+![MainUI_012](https://user-images.githubusercontent.com/106662128/173913162-f992fef6-d122-4454-91f3-aab6cebb3d75.png )
+  
+</details>
  
 <details><summary>RetroArch Shortcuts Installer</summary><br>
   
-![The Bastard Installer_000](https://user-images.githubusercontent.com/106662128/173914189-3c331618-87e9-44ba-8065-2223b66d0280.png)
+![The Bastard Installer_000](https://user-images.githubusercontent.com/106662128/173914189-3c331618-87e9-44ba-8065-2223b66d0280.png )
+  
+</details>
   
 <details><summary>Eggs Keymon Display Settings</summary><br>
   
-![MainUI_006](https://user-images.githubusercontent.com/106662128/173914588-43caa212-f824-49b2-b557-116e5596f149.png)
+![MainUI_006](https://user-images.githubusercontent.com/106662128/173914588-43caa212-f824-49b2-b557-116e5596f149.png )
+  
+</details>
 
 <details><summary>Eggs Keymon RTC Settings</summary><br>
   
-![MainUI_008](https://user-images.githubusercontent.com/106662128/173914789-3bf10a1d-28f0-44fd-94f1-70e10a18e89e.png)
+![MainUI_008](https://user-images.githubusercontent.com/106662128/173914789-3bf10a1d-28f0-44fd-94f1-70e10a18e89e.png )
 
 </details>
+  
 
 # Installation:
 
