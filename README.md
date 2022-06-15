@@ -168,13 +168,13 @@ Shortcuts via `Eggs`:
 
 *During suspend - SELECT button:* Adjust LCD parameters. (Luma / Hue / Saturation / Contrast) - No need to reboot after adjustment.
 
-*Power button ingame (EXCEPT PSX):* Pressing in all emus BUT PSX will auto-save and shutdown. When powering on you can open the save state by going into recents or finding game file
+*Holding power button ingame (EXCEPT PS):* Press power button in game (except PS*) and the system will quicksave and shutdown. *Power back on and select your game in recent to resume!* *For PS quicksave functions use the RetroArch shortcut for PS and use the button combo `MENU + POWER` to quicksave and powerdown!
 
 **-if battery falls below about 4% the device will AutoSave & Exit**
 
 # Locations:
 
-Roms: SD:\\Roms
+Roms: `SD:\\Roms`
 
 Game save location: `SD:\Emu\(game system)\config\saves\(game system)\(core)`
 
