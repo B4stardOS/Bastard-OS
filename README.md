@@ -14,7 +14,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * System dialogue has been completely revamped! The boring translated dialogue has been updated to not only be more accurate but also explain things better. Personally this change was soooooo needed and I cant believe it hasn't been adjusted on the main FW.
 
-* Using the Miyoo made `ra32.ss` but baked into Onion OS for faster boot times, better performance and battery life.
+* Using the Miyoo made `ra32.ss` but baked into Onion OS for faster boot times, better performance and battery life vs StockOS.
 
 * Keeps original in-game menu button action with QUICK MENU but fully themed.
 
