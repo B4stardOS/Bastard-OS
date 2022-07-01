@@ -10,8 +10,7 @@
 
 Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like from both and smashin em together.
 
-
-# Features:
+![Features](https://user-images.githubusercontent.com/106662128/176846878-d2233894-b03f-4514-bc2c-c591127ca330.png)
 
 * System dialogue has been completely revamped! The boring translated dialogue has been updated to not only be more accurate but also explain things better. Personally this change was soooooo needed and I cant believe it hasn't been adjusted on the main FW.
 
@@ -37,7 +36,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Includes File Explorer, Thank you app and Shutdown shortcut in Apps.
 
-# Pictures
+![Pictures](https://user-images.githubusercontent.com/106662128/176846916-8acc4813-fe1d-4860-aa0e-106e4aa54fa5.png)
 
 <details><summary>Bootscreen</summary><br>
   
@@ -111,8 +110,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 </details>
   
-
-# Installation:
+![installations](https://user-images.githubusercontent.com/106662128/176847206-383ab6a1-cb62-422f-9484-ce500c692c4c.png)
 
 You need the 0419 firmware update, upgrade info below
 
@@ -156,7 +154,7 @@ ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CA
 
 **Copy over roms and saves as needed and enjoy!**
 
-# Shortcuts:
+![shortcuts](https://user-images.githubusercontent.com/106662128/176847276-af75a160-acc0-4eda-ac36-e5ef2080f99b.png)
 
 *Menu button:* Opens stock menu that can save state, load state and change EMU
 
@@ -176,7 +174,7 @@ Shortcuts via `Eggs`:
 
 **-if battery falls below about 4% the device will AutoSave & Exit**
 
-# Locations:
+![installations](https://user-images.githubusercontent.com/106662128/176847305-4238385e-044b-421e-9ea8-47e467ff988e.png)
 
 Roms: `SD:\\Roms`
 
@@ -192,7 +190,7 @@ Bios: `SD:\Emu\(game system)`
 
 `SD:\Emu\PS\.pcsx`
 
-# Credits & Thanks:
+![Credits](https://user-images.githubusercontent.com/106662128/176847356-ffb78345-aa1d-4d24-86fa-49611117dc7f.png)
 
 Onion Os team for making a framework for me to play around in, you are all the best!
 * The Onion OS team: `Sichroteph, jimgraygit, PixelShift-gb, asiansteev, Codeudan and squallstar`
