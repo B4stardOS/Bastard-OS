@@ -1,4 +1,5 @@
-# Bastard OS
+![logo](https://user-images.githubusercontent.com/106662128/176844049-4cdfeed9-7963-4b6d-8548-c12aef1bb61a.png)
+
 `A Custom Version of Onion OS for the Miyoo Mini`
 
 **Do you have a spare SD card?** 
