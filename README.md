@@ -9,6 +9,7 @@
 
 Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like from both and smashin em together.
 
+
 # Features:
 
 * System dialogue has been completely revamped! The boring translated dialogue has been updated to not only be more accurate but also explain things better. Personally this change was soooooo needed and I cant believe it hasn't been adjusted on the main FW.
