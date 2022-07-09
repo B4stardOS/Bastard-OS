@@ -43,50 +43,54 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 ![Pictures](https://user-images.githubusercontent.com/106662128/176846916-8acc4813-fe1d-4860-aa0e-106e4aa54fa5.png)
 
 <details><summary>Bootscreen</summary><br>
-  
-![bootScreen](https://user-images.githubusercontent.com/106662128/176839095-6b0ae3a5-3499-4d77-a36c-a374605038ba.png)
+
+![bootScreen](https://user-images.githubusercontent.com/106662128/178097567-b7d8ccdc-0aa5-4d00-8338-19c9b4118b06.png)
   
 </details>
-  
+
 <details><summary>Main Screen</summary><br>
   
-![MainUI_011](https://user-images.githubusercontent.com/106662128/176839148-f1ea9c44-12e8-492e-bd13-0a137514fb1a.png)
+![MainUI_002](https://user-images.githubusercontent.com/106662128/178097580-52536a1c-67f6-49aa-93f8-f53cf7202b4a.png)
 
 </details>
   
 <details><summary>Console Screen</summary><br>
-  
-![MainUI_004](https://user-images.githubusercontent.com/106662128/176839240-d1af5ffd-8a95-4464-8917-8fb9e1b8c7ab.png)
 
+![MainUI_005](https://user-images.githubusercontent.com/106662128/178097611-0fad844a-a7da-40e5-b626-c1a38b36f209.png)
+ 
 </details>
 
 <details><summary>App Screen</summary><br>
   
-![MainUI_005](https://user-images.githubusercontent.com/106662128/176839285-48bc1cbd-0e94-4ae7-b8d8-d8bef3141c13.png)
+![MainUI_006](https://user-images.githubusercontent.com/106662128/178097621-166ce8a1-7e2b-4ef9-9a0a-4eed3de1fb7c.png)
 
 </details>
 
 <details><summary>Game Selection Screen</summary><br>
   
-![MainUI_006](https://user-images.githubusercontent.com/106662128/176839334-9bf58074-cd10-4258-b5c4-4e56a75db606.png)
+![MainUI_008](https://user-images.githubusercontent.com/106662128/178097636-5354aa6f-1117-4fc0-942e-b03570adfb57.png)
+![MainUI_007](https://user-images.githubusercontent.com/106662128/178097637-2718e34f-cf27-4d36-a4a9-82913a82be2a.png)
 
 </details>
   
 <details><summary>Settings Screen</summary><br>
   
-![MainUI_007](https://user-images.githubusercontent.com/106662128/176839356-75dff0a7-bfe5-494a-acef-9b639d1ab46f.png)
+![MainUI_009](https://user-images.githubusercontent.com/106662128/178097641-1f3a64c1-5db0-4a27-a3a5-6d263381dafd.png)
+![MainUI_012](https://user-images.githubusercontent.com/106662128/178097643-896de89c-c824-4db3-924b-9faa552672bf.png)
+![MainUI_010](https://user-images.githubusercontent.com/106662128/178097644-548aa17f-865b-46bb-884e-f7a2b35178b4.png)
+![MainUI_011](https://user-images.githubusercontent.com/106662128/178097645-4230d9c7-ba8b-4e2f-b092-9685334ce6b7.png)
 
 </details>
   
 <details><summary>Play Activity</summary><br>
   
-![MainUI_008](https://user-images.githubusercontent.com/106662128/176839395-3e97097c-9906-457d-bf09-0c4e6901717c.png)
+![MainUI_013](https://user-images.githubusercontent.com/106662128/178097653-264b5c2e-37f2-424e-b1ab-768ad2c2da3e.png)
 
 </details>
   
 <details><summary>Themed Quick Menu</summary><br>
  
-![Megaman Battle Network 1_000](https://user-images.githubusercontent.com/106662128/176839419-475e1f31-d7c3-4375-b270-997a25ca4c99.png)
+![Megaman Battle Network 1_001](https://user-images.githubusercontent.com/106662128/178097659-4c81655e-f141-4923-ae83-5d756a160ea1.png)
 
 </details>
   
@@ -98,19 +102,19 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
  
 <details><summary>RetroArch Shortcuts Installer</summary><br>
   
-![The Bastard Installer_000](https://user-images.githubusercontent.com/106662128/176839713-2977c24d-ea82-4d2a-b439-653c90f81fbf.png)
+![The Bastard Installer_000](https://user-images.githubusercontent.com/106662128/178097693-cd8f6b2c-c8e1-4343-a064-12199b288d90.png)
 
 </details>
   
 <details><summary>Eggs Keymon Display Settings</summary><br>
-  
-![MainUI_012](https://user-images.githubusercontent.com/106662128/176839540-af4ff9f0-8a2a-48e6-acc6-5504bcc35105.png)
+
+![MainUI_016](https://user-images.githubusercontent.com/106662128/178097703-affd9784-0285-4264-8bd5-731dc66d71a2.png)
 
 </details>
 
 <details><summary>Eggs Keymon RTC Settings</summary><br>
   
-![MainUI_013](https://user-images.githubusercontent.com/106662128/176839580-4482503d-ad10-4557-84ec-e22ebafe8311.png)
+![MainUI_018](https://user-images.githubusercontent.com/106662128/178097705-4880a81d-b26d-4ed2-9b90-c1fd25ce75eb.png)
 
 </details>
   
