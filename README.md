@@ -156,6 +156,8 @@ ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CA
 
 **Copy over roms and saves as needed and enjoy!**
 
+UPGRADING: Just drag the unzipped .tmp_update folder to the root of you SD and boot up!
+
 ![shortcuts](https://user-images.githubusercontent.com/106662128/176847276-af75a160-acc0-4eda-ac36-e5ef2080f99b.png)
 
 *Menu button:* Opens stock menu that can save state, load state and change EMU
