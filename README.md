@@ -14,7 +14,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * System dialogue has been completely revamped! The boring translated dialogue has been updated to not only be more accurate but also explain things better. Personally this change was soooooo needed and I cant believe it hasn't been adjusted on the main FW.
 
-* Brand new GLITCHED theme by `Syphen` to make the device feel like new.
+* Brand new GLITCHED theme by `Syphen` to make the device feel like new and includes selected icons on the main screen and on the consoles.
 
 * Using the Miyoo made `ra32.ss` but baked into Onion OS for faster boot times, better performance and battery life vs StockOS.
 
