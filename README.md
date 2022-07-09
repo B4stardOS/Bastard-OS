@@ -36,7 +36,9 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Play activity by Onion to teack gameplay.
 
-* Includes File Explorer, Thank you app and Shutdown shortcut in Apps.
+* Includes File Explorer and Thank you apps.
+
+* Includes 240pTestSuite or alternative test rom for each system except arcade.
 
 ![Pictures](https://user-images.githubusercontent.com/106662128/176846916-8acc4813-fe1d-4860-aa0e-106e4aa54fa5.png)
 
