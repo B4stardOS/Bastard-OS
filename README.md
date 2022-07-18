@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/106662128/176844049-4cdfeed9-7963-4b6d-8548-c12aef1bb61a.png)
+![logo](https://user-images.githubusercontent.com/106662128/179464287-bf776fbb-b4bb-4603-ac72-e53d26d1753d.png)
 
 `A Custom Version of Onion OS for the Miyoo Mini`
 
@@ -10,7 +10,8 @@
 
 Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like from both and smashin em together.
 
-![Features](https://user-images.githubusercontent.com/106662128/176846878-d2233894-b03f-4514-bc2c-c591127ca330.png)
+![fea](https://user-images.githubusercontent.com/106662128/179464381-e85cb7c7-fe51-46f6-8121-676b8ab352ba.png)
+
 
 * System dialogue has been completely revamped! The boring translated dialogue has been updated to not only be more accurate but also explain things better. Personally this change was soooooo needed and I cant believe it hasn't been adjusted on the main FW.
 
@@ -40,7 +41,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Includes 240pTestSuite or alternative test rom for each system except arcade.
 
-![Pictures](https://user-images.githubusercontent.com/106662128/176846916-8acc4813-fe1d-4860-aa0e-106e4aa54fa5.png)
+![pic](https://user-images.githubusercontent.com/106662128/179464441-88b770d9-4eda-40f6-a63d-ea6dfe827c8f.png)
 
 <details><summary>Bootscreen</summary><br>
 
@@ -117,8 +118,8 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 ![MainUI_018](https://user-images.githubusercontent.com/106662128/178097705-4880a81d-b26d-4ed2-9b90-c1fd25ce75eb.png)
 
 </details>
-  
-![installations](https://user-images.githubusercontent.com/106662128/176847206-383ab6a1-cb62-422f-9484-ce500c692c4c.png)
+
+![ins](https://user-images.githubusercontent.com/106662128/179464498-19d3acf8-0cad-4b63-ad13-f92609c9a346.png)
 
 You need the 0419 firmware update, upgrade info below
 
@@ -164,7 +165,7 @@ ALWAYS BACKUP YOUR GAMES AND SAVES/STATES. RECCOMENDED USING THIS ON AN EXTRA CA
 
 UPGRADING: Just drag the unzipped .tmp_update folder to the root of you SD and boot up!
 
-![shortcuts](https://user-images.githubusercontent.com/106662128/176847276-af75a160-acc0-4eda-ac36-e5ef2080f99b.png)
+![sho](https://user-images.githubusercontent.com/106662128/179464581-e94610d4-5ec0-4d5b-b9d4-303a1f08deac.png)
 
 *Menu button:* Opens stock menu that can save state, load state and change EMU
 
@@ -184,7 +185,7 @@ Shortcuts via `Eggs`:
 
 **-if battery falls below about 4% the device will AutoSave & Exit**
 
-![installations](https://user-images.githubusercontent.com/106662128/176847305-4238385e-044b-421e-9ea8-47e467ff988e.png)
+![pat](https://user-images.githubusercontent.com/106662128/179464606-cbb53c0c-ca18-406b-8424-30a0480ce185.png)
 
 Roms: `SD:\\Roms`
 
@@ -200,7 +201,7 @@ Bios: `SD:\Emu\(game system)`
 
 `SD:\Emu\PS\.pcsx`
 
-![Credits](https://user-images.githubusercontent.com/106662128/176847356-ffb78345-aa1d-4d24-86fa-49611117dc7f.png)
+![cre](https://user-images.githubusercontent.com/106662128/179464628-fffd8636-b30a-4ddd-af46-faea2fc9638d.png)
 
 Onion Os team for making a framework for me to play around in, you are all the best!
 * The Onion OS team: `Sichroteph, jimgraygit, PixelShift-gb, asiansteev, Codeudan and squallstar`
