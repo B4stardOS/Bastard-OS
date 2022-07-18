@@ -202,7 +202,7 @@ Game save location: `SD:\Saves\CurrentProfile\saves\(core)`
 
 Game states location: `SD:\Roms\(game system)\(core)`
 
-Game auto state location: `SD:\Saves\CurrentProfile\states\(core)`
+Game auto state location: `SD:\Roms\(game system)`
 
 Bios: `SD:\Emu\(game system)`
 
