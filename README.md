@@ -12,6 +12,9 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 ![fea](https://user-images.githubusercontent.com/106662128/179464381-e85cb7c7-fe51-46f6-8121-676b8ab352ba.png)
 
+* Modified `MainUIBatPerc` and it now supports reporting battery at 10% increments instead of 20%
+
+* Modified `chargingState` to suport 10 frames instead of 6
 
 * System dialogue has been completely revamped! The boring translated dialogue has been updated to not only be more accurate but also explain things better. Personally this change was soooooo needed and I cant believe it hasn't been adjusted on the main FW.
 
@@ -27,7 +30,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Faster then stock with cores picked by my personal experience.
 
-* Custom Keymon fully working by `Eggs` <3 RTC and Screenshot built in! (check shortcuts)
+* BASTARD MODIFIED Custom Keymon fully working by `Eggs` <3 RTC and Screenshot built in! (check shortcuts)
 
 * Onion OS v3.11.2 base, built on SDL audio.
 
@@ -39,7 +42,7 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 * Includes File Explorer and Thank you apps.
 
-* Includes 240pTestSuite or alternative test rom for each system except arcade.
+* Includes 240pTestSuite or alternative test rom for systems except arcade.
 
 ![pic](https://user-images.githubusercontent.com/106662128/179464441-88b770d9-4eda-40f6-a63d-ea6dfe827c8f.png)
 
