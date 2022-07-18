@@ -48,77 +48,83 @@ Bastard OS is a amalgamation of the stock OS and Onion OS taking what I like fro
 
 <details><summary>Bootscreen</summary><br>
 
-![bootScreen](https://user-images.githubusercontent.com/106662128/178097567-b7d8ccdc-0aa5-4d00-8338-19c9b4118b06.png)
+![1](https://user-images.githubusercontent.com/106662128/179469532-e125b0b4-ad60-4239-98c5-0004aa2c4a66.png)
   
 </details>
 
 <details><summary>Main Screen</summary><br>
   
-![MainUI_002](https://user-images.githubusercontent.com/106662128/178097580-52536a1c-67f6-49aa-93f8-f53cf7202b4a.png)
+![2](https://user-images.githubusercontent.com/106662128/179469567-7aeceecf-be27-41fb-8539-639f9e477fb7.png)
 
 </details>
   
 <details><summary>Console Screen</summary><br>
 
-![MainUI_005](https://user-images.githubusercontent.com/106662128/178097611-0fad844a-a7da-40e5-b626-c1a38b36f209.png)
- 
+![3](https://user-images.githubusercontent.com/106662128/179469598-8891a12b-b568-4af5-aaee-134735ea4bfc.png)
+![4](https://user-images.githubusercontent.com/106662128/179469627-ad5537d6-174e-47bf-b17f-694f0b8cd354.png)
+
 </details>
 
 <details><summary>App Screen</summary><br>
   
-![MainUI_006](https://user-images.githubusercontent.com/106662128/178097621-166ce8a1-7e2b-4ef9-9a0a-4eed3de1fb7c.png)
+![5](https://user-images.githubusercontent.com/106662128/179469677-26ccf97d-195f-48ce-b130-2f3a58ce8f73.png)
 
 </details>
 
 <details><summary>Game Selection Screen</summary><br>
   
-![MainUI_008](https://user-images.githubusercontent.com/106662128/178097636-5354aa6f-1117-4fc0-942e-b03570adfb57.png)
-![MainUI_007](https://user-images.githubusercontent.com/106662128/178097637-2718e34f-cf27-4d36-a4a9-82913a82be2a.png)
+![6](https://user-images.githubusercontent.com/106662128/179469839-27b7ba44-71f8-4e07-8fe1-f03bf84332d6.png)
+![7](https://user-images.githubusercontent.com/106662128/179469849-8801273d-6ea7-485c-a33a-fb405ada23d4.png)
 
 </details>
   
 <details><summary>Settings Screen</summary><br>
-  
-![MainUI_009](https://user-images.githubusercontent.com/106662128/178097641-1f3a64c1-5db0-4a27-a3a5-6d263381dafd.png)
-![MainUI_012](https://user-images.githubusercontent.com/106662128/178097643-896de89c-c824-4db3-924b-9faa552672bf.png)
-![MainUI_010](https://user-images.githubusercontent.com/106662128/178097644-548aa17f-865b-46bb-884e-f7a2b35178b4.png)
-![MainUI_011](https://user-images.githubusercontent.com/106662128/178097645-4230d9c7-ba8b-4e2f-b092-9685334ce6b7.png)
+
+![8](https://user-images.githubusercontent.com/106662128/179469927-8d4f0c32-5656-47dc-acd4-0f0478c268bc.png)
+![9](https://user-images.githubusercontent.com/106662128/179469930-e226ba51-6b6a-4cfb-ab6c-07eafec4e21e.png)
+![10](https://user-images.githubusercontent.com/106662128/179469931-0a6788c8-715f-45e7-b481-5e19d2333bfe.png)
+![11](https://user-images.githubusercontent.com/106662128/179469934-fe527737-4316-4c69-bc9d-eaf6fb49f124.png)
+![12](https://user-images.githubusercontent.com/106662128/179469935-efa3bdac-e417-422e-8486-cc44702e782a.png)  
 
 </details>
   
 <details><summary>Play Activity</summary><br>
   
-![MainUI_013](https://user-images.githubusercontent.com/106662128/178097653-264b5c2e-37f2-424e-b1ab-768ad2c2da3e.png)
+![13](https://user-images.githubusercontent.com/106662128/179469972-dbf503bd-d37b-4041-a6e5-6f075461d64c.png)
 
 </details>
   
 <details><summary>Themed Quick Menu</summary><br>
  
-![Megaman Battle Network 1_001](https://user-images.githubusercontent.com/106662128/178097659-4c81655e-f141-4923-ae83-5d756a160ea1.png)
+![Pokemon Unbound_021](https://user-images.githubusercontent.com/106662128/179470016-9a6474a2-f721-4860-95e1-52cf2c3393cc.png)
+![14](https://user-images.githubusercontent.com/106662128/179470018-ccaabdb9-3ecf-4424-964c-c24dac3b056b.png)
+![Pokémon Pinball_000](https://user-images.githubusercontent.com/106662128/179470019-aefaa386-efa3-472d-8e58-07d55baedffd.png)
+![15](https://user-images.githubusercontent.com/106662128/179470023-ebdd3cc3-4ed9-4fb7-9ee9-fc45549fec8a.png)
 
 </details>
   
 <details><summary>RetroArch Shortcuts Menu</summary><br>
   
-![MainUI_010](https://user-images.githubusercontent.com/106662128/176839689-14c0aebf-ac2a-4910-9749-449f561fa037.png)
+![16](https://user-images.githubusercontent.com/106662128/179470096-e2f0235d-b1b0-40dd-b169-472606dd9d5f.png)
+![17](https://user-images.githubusercontent.com/106662128/179470099-f538ca76-e70c-406f-b93a-6becaba44cd4.png)
+![18](https://user-images.githubusercontent.com/106662128/179470100-96af0d03-b5e0-46c5-8737-34d319b5f12e.png)
+![19](https://user-images.githubusercontent.com/106662128/179470101-3fcffcdc-5c84-4081-83a8-fa07429d7444.png)
+![20](https://user-images.githubusercontent.com/106662128/179470103-f92585a8-a9e4-4aae-95ed-b9885ab26273.png)
+![21](https://user-images.githubusercontent.com/106662128/179470104-f4b1c2d7-d6ae-4ce7-977e-9572e1ad2770.png)
 
 </details>
  
 <details><summary>RetroArch Shortcuts Installer</summary><br>
   
-![The Bastard Installer_000](https://user-images.githubusercontent.com/106662128/178097693-cd8f6b2c-c8e1-4343-a064-12199b288d90.png)
+![22](https://user-images.githubusercontent.com/106662128/179470136-4539da9a-8862-4701-8eed-241abf64d10f.png)
+![23](https://user-images.githubusercontent.com/106662128/179470141-a9adb32d-1e19-4f1a-8284-0fab07660528.png)
 
 </details>
   
-<details><summary>Eggs Keymon Display Settings</summary><br>
+<details><summary>Eggs Keymon Settings</summary><br>
 
-![MainUI_016](https://user-images.githubusercontent.com/106662128/178097703-affd9784-0285-4264-8bd5-731dc66d71a2.png)
-
-</details>
-
-<details><summary>Eggs Keymon RTC Settings</summary><br>
-  
-![MainUI_018](https://user-images.githubusercontent.com/106662128/178097705-4880a81d-b26d-4ed2-9b90-c1fd25ce75eb.png)
+![24](https://user-images.githubusercontent.com/106662128/179470181-e4b81533-ad27-495e-950e-aad87baf8439.png)
+![25](https://user-images.githubusercontent.com/106662128/179470186-d4ec3c61-0814-49dc-913b-2ca3b948a8c4.png)
 
 </details>
 
